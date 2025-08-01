@@ -49,7 +49,7 @@ Ex: O mago atacou usando magia
 
 
 
-## 👨‍💻 Desenvolvido por
+## 👨‍💻 Autor:
 
 Desenvolvido por **Cristiane Machado**  
 Desafio proposto por **Felipe Aguiar** na plataforma **[DIO - Digital Innovation One](https://www.dio.me/)** como complemento da formação **Lógica de Programação**
